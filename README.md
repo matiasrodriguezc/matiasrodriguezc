@@ -6,13 +6,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
 ## About Me :
-
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🎓 Studies **System Engineer** at [UNICEN](https://www.unicen.edu.ar)
+- 🏡'Lives in **Tandil, Argentina**
 
 <br>
 
@@ -20,7 +15,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/instagram-new.png "@matiasrodriguezc")](https://www.instagram.com/matiasrodriguezc/) [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/facebook.png "@matiasrodriguezc")](https://web.facebook.com/profile.php?id=100007835868227) [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/linkedin.png "@matiasrodriguezc")](www.linkedin.com/in/matiasrodriguezc) [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@matiasrodriguec")](https://x.com/matiasrodriguec) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:+5492262359716) [![@matiasrodriguezc01@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@matiasrodriguezc01@gmail.com")](matiasrodriguezc01@gmail.com)
 
 <br>
 
@@ -46,14 +41,6 @@
 
 <br>
 
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-
-<br>
-
 ## Activity Graph 📊 :
 
 <br>
@@ -61,7 +48,3 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
-
-Last edited on: 30/06/2022
