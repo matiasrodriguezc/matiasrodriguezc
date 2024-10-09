@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Matías Rodríguez</h1>
 
+<br>
+
 ## About Me :
 - 🎓 Studies **System Engineer** at [UNICEN](https://www.unicen.edu.ar)
 - 🎓 Studied **Program Analyzer** at [UNICEN](https://www.unicen.edu.ar)
