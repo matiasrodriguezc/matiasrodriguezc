@@ -13,7 +13,7 @@
 
 <br>
 
-[![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/instagram-new.png "@matiasrodriguezc")](https://www.instagram.com/matiasrodriguezc/)
+[![@matiasrodriguezc](https://img.icons8.com/?size=100&id=32323&format=png&color=000000 "@matiasrodriguezc")](https://www.instagram.com/matiasrodriguezc/)
 [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/facebook.png "@matiasrodriguezc")](https://web.facebook.com/profile.php?id=100007835868227)
 [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/linkedin.png "@matiasrodriguezc")](www.linkedin.com/in/matiasrodriguezc)
 [![@matiasrodriguezc](https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000)](https://x.com/matiasrodriguec)
