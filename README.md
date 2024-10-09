@@ -17,7 +17,7 @@
 [![@matiasrodriguezc](https://img.icons8.com/?size=100&id=13912&format=png&color=000000 "@matiasrodriguezc")](https://web.facebook.com/profile.php?id=100007835868227)
 [![@matiasrodriguezc](https://img.icons8.com/?size=100&id=13930&format=png&color=000000 "@matiasrodriguezc")](www.linkedin.com/in/matiasrodriguezc)
 [![@matiasrodriguezc](https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000)](https://x.com/matiasrodriguec)
-[![@+5492262359716](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+5492262359716")](tel:+5492262359716)
+[![@+5492262359716](https://img.icons8.com/?size=100&id=16713&format=png&color=000000 "@+5492262359716")](tel:+5492262359716)
 [![@matiasrodriguezc01@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@matiasrodriguezc01@gmail.com")](matiasrodriguezc01@gmail.com)
 
 <br>
