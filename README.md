@@ -6,7 +6,7 @@
 - 🎓 Studies **System Engineer** at [UNICEN](https://www.unicen.edu.ar)
 - 🎓 Studied **Program Analyzer** at [UNICEN](https://www.unicen.edu.ar)
 - 🏡'Lives in **Tandil, Argentina**
-
+  
 <br>
 
 ## Connect with me:
