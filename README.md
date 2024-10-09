@@ -5,7 +5,7 @@
 ## About Me :
 - 🎓 Studies **System Engineer** at [UNICEN](https://www.unicen.edu.ar)
 - 🎓 Studied **Program Analyzer** at [UNICEN](https://www.unicen.edu.ar)
-- 🏡'Lives in **Tandil, Argentina**
+- 🏡 Lives in **Tandil, Argentina**
   
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-[![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/instagram-new.png "@matiasrodriguezc")](https://www.instagram.com/matiasrodriguezc/) [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/facebook.png "@matiasrodriguezc")](https://web.facebook.com/profile.php?id=100007835868227) [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/linkedin.png "@matiasrodriguezc")](www.linkedin.com/in/matiasrodriguezc) [![@matiasrodriguezc]([https://img.icons8.com/fluency/48/000000/twitter-squared.png](https://img.icons8.com/fluency/48/000000/x-new.png) "@matiasrodriguec")](https://x.com/matiasrodriguec) [![@+5492262359716](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+5492262359716")](tel:+5492262359716) [![@matiasrodriguezc01@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@matiasrodriguezc01@gmail.com")](matiasrodriguezc01@gmail.com)
+[![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/instagram-new.png "@matiasrodriguezc")](https://www.instagram.com/matiasrodriguezc/) [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/facebook.png "@matiasrodriguezc")](https://web.facebook.com/profile.php?id=100007835868227) [![@matiasrodriguezc](https://img.icons8.com/fluency/48/000000/linkedin.png "@matiasrodriguezc")](www.linkedin.com/in/matiasrodriguezc) [![@matiasrodriguezc]([https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000](https://img.icons8.com/fluency/48/000000/x-new.png) "@matiasrodriguec")](https://x.com/matiasrodriguec) [![@+5492262359716](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+5492262359716")](tel:+5492262359716) [![@matiasrodriguezc01@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@matiasrodriguezc01@gmail.com")](matiasrodriguezc01@gmail.com)
 
 <br>
 
