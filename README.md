@@ -20,6 +20,8 @@
 [![+5492262359716](https://img.icons8.com/?size=100&id=16713&format=png&color=000000 "+5492262359716")](tel:+5492262359716)
 [![@matiasrodriguezc01@gmail.com](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000 "@matiasrodriguezc01@gmail.com")](matiasrodriguezc01@gmail.com)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <br>
 
 ## What I am Good at:
