@@ -26,6 +26,6 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,css,html,js,dart,flutter,cs,bots,java,cpp,py,postgres,postman,clion,docker,firebase,git,github,gitlab,idea,linux,maven,mongodb,notion,r,ubuntu,unity,vscode,windows,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/iconsi=apple,bots,clion,cpp,cs,css,dart,docker,firebase,flutter,git,github,gitlab,html,idea,java,js,linux,maven,mongodb,notion,postgres,postman,py,r,spring,ubuntu,unity,vscode,windows)](https://skillicons.dev)
 
 <br>
