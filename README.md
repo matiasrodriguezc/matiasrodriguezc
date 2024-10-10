@@ -9,6 +9,14 @@
   
 <br>
 
+## What I am Good at:
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=apple,bots,clion,cpp,cs,css,dart,docker,firebase,flutter,git,github,gitlab,html,idea,java,js,linux,maven,mongodb,notion,postgres,postman,py,r,spring,ubuntu,unity,vscode,windows)](https://skillicons.dev)
+
+<br>
+
 ## Connect with me:
 
 <br>
@@ -19,13 +27,5 @@
 [![@matiasrodriguec](https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000 "@matiasrodriguec")](https://x.com/matiasrodriguec)
 [![+5492262359716](https://img.icons8.com/?size=100&id=16713&format=png&color=000000 "+5492262359716")](tel:+5492262359716)
 [![matiasrodriguezc01@gmail.com](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000 "matiasrodriguezc01@gmail.com")](matiasrodriguezc01@gmail.com)
-
-<br>
-
-## What I am Good at:
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=apple,bots,clion,cpp,cs,css,dart,docker,firebase,flutter,git,github,gitlab,html,idea,java,js,linux,maven,mongodb,notion,postgres,postman,py,r,spring,ubuntu,unity,vscode,windows)](https://skillicons.dev)
 
 <br>
