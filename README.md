@@ -20,20 +20,12 @@
 [![+5492262359716](https://img.icons8.com/?size=100&id=16713&format=png&color=000000 "+5492262359716")](tel:+5492262359716)
 [![@matiasrodriguezc01@gmail.com](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000 "@matiasrodriguezc01@gmail.com")](matiasrodriguezc01@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 <br>
 
 ## What I am Good at:
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+[![My Skills](https://skillicons.dev/icons?i=spring,css,html,dart,flutter,cs,as,bots,java,cpp,py,sqlite,postman)](https://skillicons.dev)
 
 <br>
