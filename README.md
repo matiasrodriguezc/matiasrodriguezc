@@ -3,7 +3,7 @@
 <br>
 
 ## About Me :
-- 💻 Part-time FullStack Developer at [Abaco Informática] (https://www.abacosoftware.com.ar/facturacion-electronica/)
+- 💻 Part-time **FullStack Developer** at [Abaco Informática](https://www.abacosoftware.com.ar/facturacion-electronica/)
 - 🎓 Studied **System Engineer** at [UNICEN](https://www.unicen.edu.ar)
 - 🎓 Studied **Program Analyzer** at [UNICEN](https://www.unicen.edu.ar)
 - 🏡 Lives in **Tandil, Argentina**
