@@ -11,7 +11,7 @@
 <br>
 
 ## Portfolio: 
-- [link](matiasrodriguezc.github.io/portfolio)
+- [link](https://matiasrodriguezc.github.io/portfolio)
 
 <br>
 
