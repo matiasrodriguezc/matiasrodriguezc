@@ -7,11 +7,7 @@
 - 🎓 Studied **System Engineer** at [UNICEN](https://www.unicen.edu.ar)
 - 🎓 Studied **Program Analyzer** at [UNICEN](https://www.unicen.edu.ar)
 - 🏡 Lives in **Tandil, Argentina**
-  
-<br>
-
-## Portfolio: 
-- [link](https://matiasrodriguezc.github.io/portfolio)
+- [Portfolio](https://matiasrodriguezc.github.io/portfolio)
 
 <br>
 
