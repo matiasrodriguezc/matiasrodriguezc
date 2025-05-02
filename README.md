@@ -4,10 +4,10 @@
 
 ## About Me :
 - 💻 Working as **FullStack Developer** at [Abaco Informática](https://www.abacosoftware.com.ar/facturacion-electronica/)
+- 💻 Personal Portfolio at [Portfolio](https://matiasrodriguezc.github.io/portfolio)
 - 🎓 Studied **System Engineer** at [UNICEN](https://www.unicen.edu.ar)
 - 🎓 Studied **Program Analyzer** at [UNICEN](https://www.unicen.edu.ar)
-- 🏡 Lives in **Tandil, Argentina**
-- [Portfolio](https://matiasrodriguezc.github.io/portfolio)
+- 🏡 Lives in **Tandil, Buenos Aires, Argentina**
 
 <br>
 
