@@ -3,7 +3,7 @@
 <br>
 
 ## About Me :
-- 💻 Working as **FullStack Developer** at [Abaco Informática](https://www.abacosoftware.com.ar/facturacion-electronica/)
+- 💻 Working as **FullStack Developer** at [Ábaco Informática](https://www.abacosoftware.com.ar/facturacion-electronica/)
 - 💻 [Portfolio](https://matiasrodriguezc.github.io/portfolio)
 - 🎓 Studied **System Engineer** at [UNICEN](https://www.unicen.edu.ar)
 - 🎓 Studied **Program Analyzer** at [UNICEN](https://www.unicen.edu.ar)
