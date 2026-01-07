@@ -24,7 +24,6 @@
 <br>
 
 [![@matiasrodriguezc](https://img.icons8.com/?size=100&id=13930&format=png&color=000000 "@matiasrodriguezc")](https://www.linkedin.com/in/matiasrodriguezc)
-[![+5492262359716](https://img.icons8.com/?size=100&id=16713&format=png&color=000000 "+5492262359716")](https://wa.me/5492262359716)
 [![matiasrodriguezc01@gmail.com](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000 "matiasrodriguezc01@gmail.com")](mailto:matiasrodriguezc01@gmail.com)
-
+[![+5492262359716](https://img.icons8.com/?size=100&id=16713&format=png&color=000000 "+5492262359716")](https://wa.me/5492262359716)
 <br>
